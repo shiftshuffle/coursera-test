@@ -9,8 +9,3 @@
 > quote
 
 **asdfa**
-
-$/lambda$
-$\lambda$
-$$\lambda$$
-$$/lambda$$
